@@ -1,4 +1,4 @@
-# {{.TEMPLATE}}
+# Edwards25519 hash-to-curve
 [![edwards25519](https://github.com/bytemare/edwards25519/actions/workflows/ci.yml/badge.svg)](https://github.com/bytemare/edwards25519/actions/workflows/ci.yml)
 [![Go Reference](https://pkg.go.dev/badge/github.com/bytemare/edwards25519.svg)](https://pkg.go.dev/github.com/bytemare/edwards25519)
 [![codecov](https://codecov.io/gh/bytemare/edwards25519/branch/main/graph/badge.svg?token=5bQfB0OctA)](https://codecov.io/gh/bytemare/edwards25519)
@@ -8,9 +8,6 @@
 ```
 
 This package extends [filippo.io/edwards25519](filippo.io/edwards25519) to support hash-to-curve according to the [specification](https://datatracker.ietf.org/doc/draft-irtf-cfrg-hash-to-curve/).
-
-#### References
-- {{If you have any, put links that can help know more.}}
 
 ## Documentation [![Go Reference](https://pkg.go.dev/badge/github.com/bytemare/edwards25519.svg)](https://pkg.go.dev/github.com/bytemare/edwards25519)
 
