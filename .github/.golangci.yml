@@ -21,7 +21,7 @@ linters:
     - funlen
     - gocognit
     - goconst
-    - gocritic
+    #- gocritic
     - gocyclo
     - godot
     - godox
@@ -119,7 +119,7 @@ linters-settings:
   gofmt:
     simplify: true
   goimports:
-    local-prefixes: github.com/bytemare/{{.template}}
+    local-prefixes: github.com/bytemare/edwards25519
   gomnd:
     settings:
       mnd:

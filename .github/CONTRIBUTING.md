@@ -2,16 +2,16 @@
 
 ### Did you find a bug? 🐞
 
-* 🔎 Please ensure your findings have not already been reported by searching on the project repository under [Issues](https://github.com/bytemare/{{.template}}).
+* 🔎 Please ensure your findings have not already been reported by searching on the project repository under [Issues](https://github.com/bytemare/edwards25519).
 * If you think your findings can be complementary to an existing issue, don't hesitate to join the conversation 😃☕
-* If there's no issue addressing the problem, [open a new one](https://github.com/bytemare/{{.template}}/issues/new). Please be clear in the title and description, and add relevant information. Bonus points if you provide a **code sample** and everything needed to reproduce the issue when expected behaviour is not occurring.
+* If there's no issue addressing the problem, [open a new one](https://github.com/bytemare/edwards25519/issues/new). Please be clear in the title and description, and add relevant information. Bonus points if you provide a **code sample** and everything needed to reproduce the issue when expected behaviour is not occurring.
 * If possible, use the relevant issue templates.
 
 ### Do you have a fix?
 
 🎉 That's awesome! Pull requests are welcome!
 
-* Please [open an issue](https://github.com/bytemare/{{.template}}) beforehand, so we can discuss this.
+* Please [open an issue](https://github.com/bytemare/edwards25519) beforehand, so we can discuss this.
 * Fork this repo from `main`, and ensure your fork is up-to-date with it when submitting the PR.
 * If your changes impact the documentation, please update it accordingly.
 * If you added code that impact tests, please add tests with relevant coverage and test cases. Bonus points for fuzzing.
@@ -27,7 +27,7 @@ This project tries to be as Go idiomatic as possible. Conventions from [Effectiv
 
 ### Licence
 
-By contributing to this project, you agree that your contributions will be licensed under the project's [License](https://github.com/bytemare/template/blob/main/LICENSE).
+By contributing to this project, you agree that your contributions will be licensed under the project's [License](https://github.com/bytemare/edwards25519/blob/main/LICENSE).
 
 All contributions (including pull requests) must agree to the [Developer Certificate of Origin (DCO) version 1.1](http://developercertificate.org). It states that the contributor has the right to submit the patch for inclusion into the project. Simply submitting a contribution implies this agreement, however, please include the "Signed-off-by" git tag in every commit (this tag is a conventional way to confirm that you agree to the DCO).
 
